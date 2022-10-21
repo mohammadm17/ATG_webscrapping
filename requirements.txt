@@ -39,7 +39,7 @@ PyQt5_sip==4.19.19
 PyQtWebEngine==5.12
 pyrsistent==0.18.1
 python-dateutil==2.8.2
-pywin32==304
+
 PyYAML==6.0
 pyzmq==24.0.1
 render==1.0.0
